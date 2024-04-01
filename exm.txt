@@ -1,0 +1,14 @@
+touch filename.html---->create file on project
+--------------------------------------------------------
+git clone <url>---->new developer fetch live projects
+---------------------------------------------------------
+git init --> initilization of git dash/Staging arear
+----------------------------------------------
+git commit -m "comments here"----> advance project from satging area to local arear
+-------------------------------------------------------------
+git add . ---> advance project from staging area to local repo "add." all files
+-------------------------------------------------------------------
+git push ---> advance update project from local - Central repo
+-----------------------------------------------------------------
+git pull ----> push error need to pull before push the update project
+"if other group pushed same project change to stop overlap "
